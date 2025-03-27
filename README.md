@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add your ideas here:
+I'd like to connect these forms to a backend API and collect data to use. Looking forward to using new tools to connect the endpoints.
